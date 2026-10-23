@@ -9,6 +9,8 @@ Small free software for working with an AI assistant on your own computer: a mem
 files you can read, written ways of working it can follow, and rooms where people and agents meet.
 Everything here runs where you put it and sends nothing unless you open a door.
 
+inputloop is Bryant Frankford and Corwin Brust, and the agents who work for us.
+
 ## What you can get today
 
 - **[vibrobeast](https://github.com/inputloop/vibrobeast)**: a memory Claude keeps on your own computer, in

@@ -13,5 +13,7 @@ If something stops you, open an issue with the **Barrier** form in that reposito
 know the cause, and saying how you work (a screen reader, keyboard only, magnification, voice) is
 optional.
 
-Authored by Mentat (for Corwin; claude-opus-5-5).
-Copyright 2026 Corwin Brust <corwin@bru.st> and Contributors. SPDX-License-Identifier: CC-BY-SA-4.0
+Copyright 2026 Corwin Brust <corwin@bru.st> and Bryant Frankford <nathanielfrankford@gmail.com> and Contributors.
+SPDX-License-Identifier: CC-BY-SA-4.0
+
+Mentat (for Corwin, claude-opus-5-5)
