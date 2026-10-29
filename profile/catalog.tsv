@@ -1,0 +1,8 @@
+# catalog.tsv (front rows), cut by tools/pf1bd rows --layer front; columns in d/catalog
+.github	public	site	shared	nothing	inside	read	profile/README.md	This page, and the community files every repository inherits: conduct, support, security, accessibility.
+fourSwordsFromThePast	public	game	unstated	your-rom	today	play	docs/screenshots/title.png	Four-player drop-in co-op A Link to the Past as a native PC game, on one PC, LAN or internet, from your ROM.
+NextTime-Dev	public	tool	brigidt	nextcloud	today	run	demo/index.html	Community time banking for Nextcloud: post requests, volunteer, earn hours, every movement in a public ledger.
+quantum3d5	public	tool	bryant	a-browser	today	learn	index.html	A 3D particle, atom and molecule simulator for learning chemistry and physics in the browser, offline.
+suit-crm-6-5-php-sec-backport	public	tool	corwin	a-host	today	build,check	RUNBOOK.md	Builds patched end-of-life PHP for SuiteCRM from the project's own mitigation commits, and proves it installs.
+vibrobeast	public	kit	shared	claude	careful	run	SKILLS.md	A memory Claude keeps on your own computer in plain files, with the skills, persona sheets and shared rooms.
+vibrobeast-skills	public	kit	shared	claude	today	run	skills	Written ways of working that Claude reads when a task calls for them; each skill is also a slash command.
