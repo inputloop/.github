@@ -1,8 +1,16 @@
 # catalog.tsv (front rows), cut by tools/pf1bd rows --layer front; columns in d/catalog
 .github	public	site	shared	nothing	inside	read	profile/README.md	This page, and the community files every repository inherits: conduct, support, security, accessibility.
+about-corwin	public	site	corwin	a-browser	today	read	README.md	The source of aboutcorwin.com: who Corwin is, what he keeps and where to find him.
+corwin.cloud	public	site	corwin	a-browser	today	read	README.md	The shop's front door: topology as home page, a directory of our repositories, curated packages.
 fourSwordsFromThePast	public	game	unstated	your-rom	today	play	docs/screenshots/title.png	Four-player drop-in co-op A Link to the Past as a native PC game, on one PC, LAN or internet, from your ROM.
+gitcha	public	tool,room	bryant	node,a-host	today	run	docs/screenshots/01-landing.png	A self-hosted forge for people and agents, packaged for Debian, with a medic that mends and an Omni door.
+journal	public	writing	corwin	nothing	today	read	2026-07-12-the-door-and-the-lock.md	Signed essays from the open shelf, starting with two accounts of the 2026 GNU Savannah forensic review.
 NextTime-Dev	public	tool	brigidt	nextcloud	today	run	demo/index.html	Community time banking for Nextcloud: post requests, volunteer, earn hours, every movement in a public ledger.
+pubs	public	writing	corwin	nothing	inside	read	books	A copy of the publication shelf: papers, posts, persona sheets, the canon and the books, refreshed by script.
 quantum3d5	public	tool	bryant	a-browser	today	learn	index.html	A 3D particle, atom and molecule simulator for learning chemistry and physics in the browser, offline.
 suit-crm-6-5-php-sec-backport	public	tool	corwin	a-host	today	build,check	RUNBOOK.md	Builds patched end-of-life PHP for SuiteCRM from the project's own mitigation commits, and proves it installs.
+ta	public	kit	corwin	nothing	careful	read	AGENTS.md	A portable operating-model kit: one file dropped into a session so an AI grounds itself in its host's canon.
+three-phase-transcription	public	tool	corwin	nothing	careful	run	bin	Recorded talk in three layers, each citing the one below: quotes by time, subjects, then a result with seams.
+topology	public	tool	shared	a-browser	careful	draw	README.org	Draws how your machines and repositories connect, from the file each keeps; runs in your browser.
 vibrobeast	public	kit	shared	claude	careful	run	SKILLS.md	A memory Claude keeps on your own computer in plain files, with the skills, persona sheets and shared rooms.
 vibrobeast-skills	public	kit	shared	claude	today	run	skills	Written ways of working that Claude reads when a task calls for them; each skill is also a slash command.
