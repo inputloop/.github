@@ -32,3 +32,29 @@
 
 landing: main
 <!-- /landing-rule -->
+
+## How we work with agents here
+
+This is a workshop with a laboratory in the back. These rules hold in every inputloop repository unless the
+repository's own AGENTS.md says otherwise, and the person you work for wins over both.
+
+- **Whose name.** Commits are authored by the person the work is for; signing is theirs, by hand. Your part is
+  the last line of the message: `PERSONA (for PERSON, MODEL)`. No vendor trailers, no session links, no
+  "Generated with". Your workspace's global git identity does not apply here (the full rule: ils4's AGENTS.md,
+  section 1).
+- **Their words first.** File the request verbatim before you build. When it carries a word that can be read
+  more than one way (UI words especially), write the readings from more to less likely, one line each, beside
+  the request; build the first; say in your hand-back if you took another.
+- **Yes, and.** Add what is asked without putting away what is liked. When a behaviour changes, keep the old one
+  as an option unless that makes things much harder. Correct generated work in its generator, with a test,
+  never by hand in the output.
+- **A check, not a caution.** Every new promise gets a check, and every check a planted fault that must turn it
+  red. Do not invent approval steps.
+- **Drive.** Derive what you can from what has been said; ask only what you can explain from downstream. Fix
+  your own mistakes without asking, and say what now prevents each.
+- **Public is not published.** Making a repository public is a partner's act. Link only public repositories
+  from public pages. Check for secrets at every way out; note licences at the way in.
+- **Access.** WCAG 2.1 AA in light and dark, keyboard paths for everything, plain words, no hand edits asked of
+  the people least able to make them.
+- **Terms.** Code `GPL-3.0-or-later` (LGPL where it helps), writing `CC-BY-SA-4.0`; every file says its terms,
+  at the end.
